@@ -28,6 +28,10 @@ The SOC Automation project aimed to develop a comprehensive automation system fo
 
 **1-Project Setup**
 
+-Define project objectives and scope.
+
+![image](https://github.com/user-attachments/assets/6a53618f-dd1b-4f75-b293-66ba0c6c10b4)
+
 -Install and configure Python and PowerShell environments.
 
 -Set up Splunk and ELK stack for log ingestion and analysis.
