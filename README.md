@@ -32,7 +32,13 @@ The SOC Automation project aimed to develop a comprehensive automation system fo
 
 ![image](https://github.com/user-attachments/assets/6a53618f-dd1b-4f75-b293-66ba0c6c10b4)
 
--Install and configure Python and PowerShell environments.
+-Set up Wazuh on a  Ubuntu system. This took a bit of trial and error, watching a few videos to make it work on my machine 
+
+![image](https://github.com/user-attachments/assets/cfa98e27-c64a-425b-943e-e9b2dc0566fd)
+
+
+
+
 
 -Set up Splunk and ELK stack for log ingestion and analysis.
 
